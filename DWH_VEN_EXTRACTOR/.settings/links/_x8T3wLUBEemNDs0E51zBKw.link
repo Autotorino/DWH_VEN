@@ -1,0 +1,80 @@
+{
+  "itemId" : "_x8T3wLUBEemNDs0E51zBKw",
+  "contextList" : [ {
+    "contextName" : "dev",
+    "repoId" : "_McuX8KloEemvdbMxCJroiw",
+    "parameterList" : [ {
+      "id" : "_DYKCt2efEeud0pt7sixMZg",
+      "name" : "RETENTION_BACKUP_FILE"
+    }, {
+      "id" : "_DYKCuGefEeud0pt7sixMZg",
+      "name" : "ORACLE_CLOUD_Url"
+    }, {
+      "id" : "_DYKCuWefEeud0pt7sixMZg",
+      "name" : "ORACLE_CLOUD_Password"
+    }, {
+      "id" : "_DYKCumefEeud0pt7sixMZg",
+      "name" : "ORACLE_CLOUD_Username"
+    }, {
+      "id" : "_DYKCu2efEeud0pt7sixMZg",
+      "name" : "TALEND_PATH_FILE_CSV"
+    }, {
+      "id" : "_DYKCvGefEeud0pt7sixMZg",
+      "name" : "SIPADX_DB_Server"
+    }, {
+      "id" : "_DYKCvWefEeud0pt7sixMZg",
+      "name" : "SIPADX_DB_Port"
+    }, {
+      "id" : "_DYKCvmefEeud0pt7sixMZg",
+      "name" : "SIPADX_DB_Database"
+    }, {
+      "id" : "_DYKCv2efEeud0pt7sixMZg",
+      "name" : "SIPADX_DB_Login"
+    }, {
+      "id" : "_DYKCwGefEeud0pt7sixMZg",
+      "name" : "SIPADX_DB_Password"
+    }, {
+      "id" : "_DYKCwWefEeud0pt7sixMZg",
+      "name" : "SIPADX_DB_Schema"
+    }, {
+      "id" : "_DYKCwmefEeud0pt7sixMZg",
+      "name" : "DWH_AT_MAIL_NOTIFY"
+    }, {
+      "id" : "_DYKCw2efEeud0pt7sixMZg",
+      "name" : "DWH_AT_MAIL_SMTP_HOST"
+    }, {
+      "id" : "_DYKCxGefEeud0pt7sixMZg",
+      "name" : "DWH_AT_MAIL_SMTP_PORT"
+    }, {
+      "id" : "_DYKCxWefEeud0pt7sixMZg",
+      "name" : "DWH_AT_MAIL_SMTP_USER"
+    }, {
+      "id" : "_DYKCxmefEeud0pt7sixMZg",
+      "name" : "DWH_AT_MAIL_SMTP_PWD"
+    }, {
+      "id" : "_DYKCx2efEeud0pt7sixMZg",
+      "name" : "DWH_AT_MAIL_SMTP_DEST"
+    }, {
+      "id" : "_DYKCyGefEeud0pt7sixMZg",
+      "name" : "TALEND_PATH_LOG"
+    }, {
+      "id" : "_rb5rknzYEeuof7FFBU5aoQ",
+      "name" : "RESERVATION_PROCESS_ID"
+    }, {
+      "id" : "_mV1DEbJhEeucB9IwJ_aj_A",
+      "name" : "TALEND_PATH_FILE_OBBIETTIVI"
+    }, {
+      "id" : "_VulZMbL_EeuCv6y6v5SQWQ",
+      "name" : "TALEND_FILE_NAME_OBBIETTIVI"
+    }, {
+      "id" : "_9bfzUbL_EeuCv6y6v5SQWQ",
+      "name" : "TALEND_SHEET_NAME_OBBIETTIVI"
+    }, {
+      "id" : "_LMqLgbQQEeuulvgXSofJ-A",
+      "name" : "TALEND_SHEET_NAME_IND_CHIUSURA_TR"
+    }, {
+      "id" : "_ra3jYb1bEeuF9pO0iIUrdQ",
+      "name" : "TALEND_SHEET_NAME_SEASONALITY"
+    } ]
+  } ]
+}
