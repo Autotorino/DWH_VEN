@@ -75,6 +75,9 @@
     }, {
       "id" : "_e1SFwTssEe28GLTmR_gGlA",
       "name" : "TALEND_SHEET_NAME_SEASONALITY"
+    }, {
+      "id" : "_eI4Q0Uu6Ee2dZtaGMgbbhQ",
+      "name" : "TALEND_SHEET_NAME_PERMUTE"
     } ]
   }, {
     "contextName" : "dev",
@@ -151,6 +154,9 @@
     }, {
       "id" : "_ra3jYb1bEeuF9pO0iIUrdQ",
       "name" : "TALEND_SHEET_NAME_SEASONALITY"
+    }, {
+      "id" : "_eI4Q0ku6Ee2dZtaGMgbbhQ",
+      "name" : "TALEND_SHEET_NAME_PERMUTE"
     } ]
   }, {
     "contextName" : "Default",
@@ -227,6 +233,9 @@
     }, {
       "id" : "_e1SFqDssEe28GLTmR_gGlA",
       "name" : "TALEND_SHEET_NAME_SEASONALITY"
+    }, {
+      "id" : "_eI4Q0Eu6Ee2dZtaGMgbbhQ",
+      "name" : "TALEND_SHEET_NAME_PERMUTE"
     } ]
   } ]
 }
